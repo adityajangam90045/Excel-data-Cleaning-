@@ -1,6 +1,6 @@
-Turning messy data into clean data -- my Excel cleanup process 
+# Turning messy data into clean data -- my Excel cleanup process 
 
-Steps I followed:
+## Steps I followed:
 
 1) Looked at the data first to figure out what actually needed fixing
 
